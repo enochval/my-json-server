@@ -1,9 +1,15 @@
 {
-    "test-posts": [
-        {
-            "id": "04d77855-7df0-41fe-a05a-5b20c60505aa", 
-            "title": "Test Post", 
-            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
-        }
-    ]
+  "test-posts": [
+    {
+      "id": "04d77855-7df0-41fe-a05a-5b20c60505aa",
+      "title": "Test Post",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+    },
+    {
+      "id": "b8f51861-dbbf-411b-9958-2844e97eb8b8",
+      "title": "Another title",
+      "body": "Your local session in Postman can use values that are transient and visible to you, but aren't synced or shared with your team. This lets you develop and test using private credentials or experimental values, without risk of exposing these details or affecting others on your team.",
+      "createdAt": 1686483014931
+    }
+  ]
 }

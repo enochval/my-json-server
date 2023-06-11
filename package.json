@@ -1,0 +1,28 @@
+{
+  "name": "my-json-server",
+  "version": "1.0.0",
+  "description": "\"A simple json server using the json server package\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enochval/my-json-server.git"
+  },
+  "keywords": [
+    "\"json",
+    "server\""
+  ],
+  "author": "Enoch Osareren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enochval/my-json-server/issues"
+  },
+  "homepage": "https://github.com/enochval/my-json-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "uuid": "^9.0.0"
+  }
+}
